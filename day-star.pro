@@ -1,4 +1,4 @@
-update=28/06/2016 11:10:09
+update=Fri 11 Nov 2016 13:57:53 GMT
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,6 @@ LibName28=contrib
 LibName29=valves
 LibName30=agg-kicad/agg-kicad
 LibName31=parts
+LibName32=/auto/homes/tb403/sparkie/day-star/hark-kicad/esp
+LibName33=/auto/homes/tb403/sparkie/day-star/hark-kicad/onizuka
+LibName34=/auto/homes/tb403/sparkie/day-star/hark-kicad/max
