@@ -1,4 +1,4 @@
-update=Fri 11 Nov 2016 13:57:53 GMT
+update=23-Nov-16 12:28:46 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=parts
 LibName32=hark-kicad/esp
 LibName33=hark-kicad/onizuka
 LibName34=hark-kicad/max
+LibName35=hark-kicad/pot_sw
