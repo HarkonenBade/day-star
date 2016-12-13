@@ -1,4 +1,4 @@
-update=23-Nov-16 12:28:46 PM
+update=Tue 13 Dec 2016 18:05:32 GMT
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,9 +58,10 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=agg-kicad/agg-kicad
-LibName31=parts
-LibName32=hark-kicad/esp
-LibName33=hark-kicad/onizuka
-LibName34=hark-kicad/max
-LibName35=hark-kicad/pot_sw
+LibName30=../agg-kicad/agg-kicad
+LibName31=../parts
+LibName32=../hark-kicad/esp
+LibName33=../hark-kicad/onizuka
+LibName34=../hark-kicad/max
+LibName35=../hark-kicad/pot_sw
+LibName36=../hark-kicad/ti
